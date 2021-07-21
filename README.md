@@ -9,8 +9,9 @@ Our goal is to create informative visualizations
 [link to dashboard](https://public.tableau.com/views/Challenge14_16268182932650/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## Results
 ### Set 1
-![alt text](https://github.com/aamotz001/surfs_up/blob/main/DecWeather.png)
+![alt text](https://github.com/aamotz001/bikesharing/blob/main/Storyboard1.png)
 ### Set 2
+![alt text](https://github.com/aamotz001/bikesharing/blob/main/Storyboard2.png)
 ## Summary
 ### Conclusion
 Ultimately, I don't think that the NYC bike data was the best choice to be a basis for an analysis for DesMoines Iowa. The two cities are very different: NYC is densly packed both in terms of population and real estate, while DesMoines is more suburban. A better choice would have been another similar mid-west city, with similar structure.
